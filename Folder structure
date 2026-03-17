@@ -1,0 +1,10 @@
+streaming-data-analytics/
+├── README.md
+├── kubernetes/
+│   ├── deployment.yaml
+├── scripts/
+│   ├── ai-predictive-agent.py
+├── spark/
+│   ├── streaming-job.py
+├── diagrams/
+│   ├── streaming-platform.png
